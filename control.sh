@@ -12,8 +12,8 @@ LOAD_PHP_CFG="/etc/apache2/other/load_php.conf"
 
 DNS_BIN_PATH="$EASY_PHP_DEV_ROOT/bin/easy_php_dev_dns"
 
-DNS_PLIST_SRC="$EASY_PHP_DEV_ROOT/lib/jiggsfoo.easy_php_dev_dns.plist"
-DNS_PLIST_DEST="$USER_LAGENT_ROOT/jiggsfoo.easy_php_dev_dns.plist"
+DNS_PLIST_SRC="$EASY_PHP_DEV_ROOT/lib/ctcherry.easy_php_dev_dns.plist"
+DNS_PLIST_DEST="$USER_LAGENT_ROOT/ctcherry.easy_php_dev_dns.plist"
 
 SITE_ROOT="/Users/$USER/Sites"
 PHP_LIB="/Users/$USER/Sites/phplib"
