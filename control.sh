@@ -15,8 +15,8 @@ DNS_BIN_PATH="$EASY_PHP_DEV_ROOT/bin/easy_php_dev_dns"
 DNS_PLIST_SRC="$EASY_PHP_DEV_ROOT/lib/ctcherry.easy_php_dev_dns.plist"
 DNS_PLIST_DEST="$USER_LAGENT_ROOT/ctcherry.easy_php_dev_dns.plist"
 
-SITE_ROOT="/Users/$USER/EasyPhpDev/sites"
-PHP_LIB="/Users/$USER/EasyPhpDev/phplib"
+SITE_ROOT="/Users/$USER/Sites"
+PHP_LIB="/Users/$USER/Sites/phplib"
 
 TEST_DOMAIN="test.$RESOLVER_TLD"
 
